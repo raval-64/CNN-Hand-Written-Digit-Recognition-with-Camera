@@ -1,2 +1,2 @@
 # CNN-Hand-Written-Digit-Recognition-with-Camera
-This is a project about hand wriiten digit recognition using video camera and CNN(Convolutional Neural Network) model is used with python.
+This project is about the recognition of handwritten digits using a video camera. It used a CNN (convolutional neural network) model with Python.
